@@ -1,0 +1,1 @@
+command: /bq_application/scripts/scr/azlib_bq_object_builder
